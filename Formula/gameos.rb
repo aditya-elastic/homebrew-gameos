@@ -1,8 +1,8 @@
 class Gameos < Formula
   desc "Pure CLI local AI game studio runtime"
   homepage "https://github.com/aditya-elastic/gameos"
-  url "https://registry.npmjs.org/gameos/-/gameos-0.1.0.tgz"
-  sha256 "7161a5f6313f36bad5cfc04499f67d6d45e807079c7fa69c011b7e889cd10bbd"
+  url "https://registry.npmjs.org/gameos/-/gameos-0.4.0.tgz"
+  sha256 "cf41ee6798c5fd1c66a0943f11a27322c17c2af92124b5edaf265260284199d9"
   license "MIT"
 
   depends_on "node"
